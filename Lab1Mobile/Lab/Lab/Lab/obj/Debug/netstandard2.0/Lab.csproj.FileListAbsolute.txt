@@ -1,0 +1,17 @@
+C:\Users\Sashka\Desktop\Mobile1\Lab1Mobile\Lab\Lab\Lab\bin\Debug\netstandard2.0\Lab.deps.json
+C:\Users\Sashka\Desktop\Mobile1\Lab1Mobile\Lab\Lab\Lab\bin\Debug\netstandard2.0\Lab.dll
+C:\Users\Sashka\Desktop\Mobile1\Lab1Mobile\Lab\Lab\Lab\bin\Debug\netstandard2.0\Lab.pdb
+C:\Users\Sashka\Desktop\Mobile1\Lab1Mobile\Lab\Lab\Lab\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Sashka\Desktop\Mobile1\Lab1Mobile\Lab\Lab\Lab\obj\Debug\netstandard2.0\Views\AboutPage.xaml.g.cs
+C:\Users\Sashka\Desktop\Mobile1\Lab1Mobile\Lab\Lab\Lab\obj\Debug\netstandard2.0\Views\ItemDetailPage.xaml.g.cs
+C:\Users\Sashka\Desktop\Mobile1\Lab1Mobile\Lab\Lab\Lab\obj\Debug\netstandard2.0\Views\ItemsPage.xaml.g.cs
+C:\Users\Sashka\Desktop\Mobile1\Lab1Mobile\Lab\Lab\Lab\obj\Debug\netstandard2.0\Views\MainPage.xaml.g.cs
+C:\Users\Sashka\Desktop\Mobile1\Lab1Mobile\Lab\Lab\Lab\obj\Debug\netstandard2.0\Views\MenuPage.xaml.g.cs
+C:\Users\Sashka\Desktop\Mobile1\Lab1Mobile\Lab\Lab\Lab\obj\Debug\netstandard2.0\Views\NewItemPage.xaml.g.cs
+C:\Users\Sashka\Desktop\Mobile1\Lab1Mobile\Lab\Lab\Lab\obj\Debug\netstandard2.0\Lab.csproj.CoreCompileInputs.cache
+C:\Users\Sashka\Desktop\Mobile1\Lab1Mobile\Lab\Lab\Lab\obj\Debug\netstandard2.0\Lab.AssemblyInfoInputs.cache
+C:\Users\Sashka\Desktop\Mobile1\Lab1Mobile\Lab\Lab\Lab\obj\Debug\netstandard2.0\Lab.AssemblyInfo.cs
+C:\Users\Sashka\Desktop\Mobile1\Lab1Mobile\Lab\Lab\Lab\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Sashka\Desktop\Mobile1\Lab1Mobile\Lab\Lab\Lab\obj\Debug\netstandard2.0\Lab.dll
+C:\Users\Sashka\Desktop\Mobile1\Lab1Mobile\Lab\Lab\Lab\obj\Debug\netstandard2.0\Lab.pdb
+C:\Users\Sashka\Desktop\Mobile1\Lab1Mobile\Lab\Lab\Lab\obj\Debug\netstandard2.0\Lab.csprojAssemblyReference.cache
